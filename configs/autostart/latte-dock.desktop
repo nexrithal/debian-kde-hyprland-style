@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Exec=latte-dock --replace --import-layout ~/.config/latte/Nex.layout.latte
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name=Latte Dock (Nex layout)
+Comment=Start Latte with Nex layout
