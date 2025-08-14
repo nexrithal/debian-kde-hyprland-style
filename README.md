@@ -25,7 +25,7 @@ while staying 100% on **apt**.
 - Backup & restore friendly installer
 
 ## 📸 Screenshots
-_Add yours later here._
+
 
 ## ✅ Requirements
 
